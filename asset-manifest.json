@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/react-workers-filter/static/js/main.a6d42e25.chunk.js",
+    "main.js.map": "/react-workers-filter/static/js/main.a6d42e25.chunk.js.map",
+    "runtime-main.js": "/react-workers-filter/static/js/runtime-main.6dc0af47.js",
+    "runtime-main.js.map": "/react-workers-filter/static/js/runtime-main.6dc0af47.js.map",
+    "static/js/2.f10b4036.chunk.js": "/react-workers-filter/static/js/2.f10b4036.chunk.js",
+    "static/js/2.f10b4036.chunk.js.map": "/react-workers-filter/static/js/2.f10b4036.chunk.js.map",
+    "index.html": "/react-workers-filter/index.html",
+    "static/js/2.f10b4036.chunk.js.LICENSE.txt": "/react-workers-filter/static/js/2.f10b4036.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6dc0af47.js",
+    "static/js/2.f10b4036.chunk.js",
+    "static/js/main.a6d42e25.chunk.js"
+  ]
+}
