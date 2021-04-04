@@ -9,6 +9,9 @@ const useStyles = makeStyles((theme) => ({
     display: 'flex',
   },
   toolbar: theme.mixins.toolbar,
+  toolbarTop: {
+    marginTop: '50px'
+  },
   content: {
     flexGrow: 1,
     padding: theme.spacing(3),
@@ -22,7 +25,7 @@ function App() {
     <div className={classes.root}>
       <Jobs />
       <main className={classes.content}>
-        <div className={classes.toolbar}>
+        <div className={classes.toolbar && classes.toolbarTop}>
           <Employees />
         </div>
       </main>
